@@ -1,4 +1,4 @@
-# Arduin_Smart_Bump_Project
+# Arduino_Smart_Bump_Project
 If you are interested in replicating my project, you will need to 3D print the files in the 3D designs folder. The supports for the 9G and SG996 servos are provided too!
 
 After assembling the circuit (coming soon) you only need to upload the arduino codes to the arduinos unos and megas respectivaly.
